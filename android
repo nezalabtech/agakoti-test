@@ -1,0 +1,11 @@
+{ 
+  "build-number":"2043780",
+  "versionCode":"2043780",
+  "versionName":"2.4.8",
+  "domainURL":"https://panel.agakoti2.com",
+  "channel":"release",
+  "publishURL":"http://download.agakoti2.com/native-apps/Agakoti-Android-2.4.9.apk",
+  "targetCode":"2043719",
+  "targetURL":"http://download.agakoti2.com/native-apps/Agakoti-Android-2.4.7.apk",
+  "whatNew":"fixed login problems, added chinese translation and improved performance"
+}
